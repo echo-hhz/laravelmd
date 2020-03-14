@@ -119,11 +119,11 @@ git clone 仓库地址
 
 获取仓库地址，可以直接在   点击复制
 
-![image-20200314161819796](B:\md\laravelmd\img\image-20200314161819796.png)
+<img src="https://gitee.com/echohhz/laravelmd/blob/master/img/image-20200314161819796.png"> 
 
 
 
-提交到远程仓库
+#### 提交到远程仓库
 
 `git add .`
 
@@ -131,7 +131,19 @@ git clone 仓库地址
 
 `git status` 
 
+`git push`   提交到远程仓库
 
+
+
+
+
+#### SSH公钥设置
+
+需要将本地的git ssh公钥添加到gitee中
+
+才能知道是谁的git 同步文件
+
+ssh公钥 等于 自己git公开的密码
 
 
 
