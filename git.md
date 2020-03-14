@@ -123,9 +123,13 @@ git clone 仓库地址
 
 
 
+提交到远程仓库
 
+`git add .`
 
+`git commit -m '描述'`
 
+`git status` 
 
 
 
