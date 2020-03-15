@@ -137,7 +137,9 @@ git clone 仓库地址
 
 `git add .`   保存新的添加和修改，但是不包括删除 
 
-`git push` 之前先同步本地仓库和远程仓库的文件  `git pull --rebase origin master`
+`git push` 之前先同步本地仓库和远程仓库的文件   `git pull origin master`
+
+
 
 
 
