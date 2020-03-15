@@ -133,7 +133,11 @@ git clone 仓库地址
 
 `git push`   提交到远程仓库
 
+`git add -A`   保存所有的修改 
 
+`git add .`   保存新的添加和修改，但是不包括删除 
+
+`git push` 之前先同步本地仓库和远程仓库的文件  `git pull --rebase origin master`
 
 
 
