@@ -2,9 +2,9 @@
 
 [下载地址](https://git-scm.com/downloads)
 
+<br>
 
-
-
+<br>
 
 ## 工作区域
 
@@ -16,7 +16,7 @@
 
   
 
-
+<br>
 
 ## 初始化
 
@@ -26,7 +26,7 @@
 git config --global user.name 'githudName'
 ```
 
-
+<br>
 
 #### 设置邮箱
 
@@ -34,7 +34,7 @@ git config --global user.name 'githudName'
 git config --gloabl user.eamil '2223616476@qq.com'
 ```
 
-
+<br>
 
 #### 查看用户名和邮箱
 
@@ -43,7 +43,7 @@ git config user.name
 git config user.email
 ```
 
-
+<br>
 
 #### 查看其他配置
 
@@ -51,7 +51,7 @@ git config user.email
 git config --list 
 ```
 
-
+<br>
 
 ## 本地操作
 
@@ -103,9 +103,9 @@ git config --list
     git commit -m '描述'
     ```
 
-    
+    <br>
 
-
+<br>
 
 ## 远程仓库
 
@@ -139,9 +139,9 @@ git clone 仓库地址
 
 `git push` 之前先同步本地仓库和远程仓库的文件   `git pull origin master`
 
+<br>
 
-
-
+<br>
 
 #### SSH公钥设置
 
@@ -151,7 +151,7 @@ git clone 仓库地址
 
 ssh公钥 等于 自己git公开的密码
 
-
+<br>
 
 ## git命令
 
@@ -165,9 +165,9 @@ ssh公钥 等于 自己git公开的密码
 
 `git rm filename`   从git删除文件
 
+<br>
 
-
-
+<br>
 
 
 

@@ -14,7 +14,7 @@ Barryvdh\LaravelIdeHelper\IdeHelperServiceProvider::class,
 
 >  在命令行下 php artisan ide-helper:generate  生成代码跟踪支持
 
-
+<br>
 
 #### laravel artisan 命令提示
 
@@ -26,13 +26,13 @@ Barryvdh\LaravelIdeHelper\IdeHelperServiceProvider::class,
 
 刷新可以查询增加新的命令
 
-
+<br>
 
 #### phpstrom laravel插件提示
 
 <img src="../img/image-20200313102117919.png"  >
 
-
+<br>
 
 ## Blade模板使用
 
@@ -44,7 +44,7 @@ Barryvdh\LaravelIdeHelper\IdeHelperServiceProvider::class,
 @yield('name')
 ```
 
-
+<br>
 
 #### 填充
 
@@ -66,7 +66,7 @@ Barryvdh\LaravelIdeHelper\IdeHelperServiceProvider::class,
 @endsection	
 ```
 
-
+<br>
 
 #### 继承
 
@@ -78,7 +78,7 @@ Barryvdh\LaravelIdeHelper\IdeHelperServiceProvider::class,
 @include('模板名称--父模板继承包含子模版')  
 ```
 
-
+<br>
 
 #### 组件
 
@@ -86,7 +86,7 @@ Barryvdh\LaravelIdeHelper\IdeHelperServiceProvider::class,
 
 
 
-
+<br>
 
 #### 流程控制
 
@@ -98,7 +98,7 @@ Barryvdh\LaravelIdeHelper\IdeHelperServiceProvider::class,
 @endfor	
 ```
 
-
+<br>
 
 ##### foreach
 
@@ -118,7 +118,7 @@ Barryvdh\LaravelIdeHelper\IdeHelperServiceProvider::class,
 @endforeach	
 ```
 
-
+<br>
 
 ##### if
 
@@ -130,7 +130,7 @@ Barryvdh\LaravelIdeHelper\IdeHelperServiceProvider::class,
 @endif	
 ```
 
-
+<br>
 
 ##### while
 
@@ -140,7 +140,7 @@ Barryvdh\LaravelIdeHelper\IdeHelperServiceProvider::class,
 @endwhile	
 ```
 
-
+<br>
 
 ##### php
 
@@ -152,9 +152,9 @@ Barryvdh\LaravelIdeHelper\IdeHelperServiceProvider::class,
 @endphp
 ```
 
+<br>
 
-
-
+<br>
 
 ## laravel版本和包版本
 
@@ -162,13 +162,13 @@ laravel的版本要和包的版本匹配
 
 不然无法下载
 
-
+<br>
 
 #### 解决办法
 
 下载更低的版本，降低某这个组件的版本
 
-
+<br>
 
 #### 碰到一个错误
 
@@ -180,9 +180,9 @@ laravel6 中有`laravel-modules` 的有些方法没有完全更新
 https://github.com/nWidart/laravel-modules/tree/master/src
 ```
 
+<br>
 
-
-
+<br>
 
 ## 数据库
 
