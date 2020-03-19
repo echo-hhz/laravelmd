@@ -139,6 +139,8 @@ git clone 仓库地址
 
 `git push` 之前先同步本地仓库和远程仓库的文件   `git pull origin master`
 
+`git remote -v`  查看远程库信息
+
 <br>
 
 <br>
@@ -166,6 +168,52 @@ ssh公钥 等于 自己git公开的密码
 `git rm filename`   从git删除文件
 
 <br>
+
+<br>
+
+
+
+## 关联两个远程库
+
+先删除掉已关联库
+
+```
+git remote rm origin
+```
+
+先关联GitHub的远程库
+
+```
+git remote add github ...
+```
+
+**注意，远程库的名称叫`github`，不叫`origin`了**
+
+再关联Gitee的远程库
+
+```
+git remote add gitee ...
+```
+
+**注意，远程库名字叫`gitee`**
+
+**`git remote -v`查看远程库信息,可以看到已经关联成功**
+
+<br>
+
+要推送到GitHub，使用命令   
+
+```
+git push github master
+```
+
+要推送到Gitee，使用命令
+
+```
+git push gitee master
+```
+
+`git push -u github master`   新建的远程仓库加个u 进行推送
 
 <br>
 
