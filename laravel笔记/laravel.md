@@ -1,6 +1,6 @@
 ## 代码提示工具 
 
-#### laravel-ide-helper 安装包 
+### laravel-ide-helper 安装包 
 
 ```php
 composer require barryvdh/laravel-ide-helper
@@ -16,7 +16,7 @@ Barryvdh\LaravelIdeHelper\IdeHelperServiceProvider::class,
 
 <br>
 
-#### laravel artisan 命令提示
+### laravel artisan 命令提示
 
 `settings>Tools>Command Line Tool Support`
 
@@ -28,7 +28,7 @@ Barryvdh\LaravelIdeHelper\IdeHelperServiceProvider::class,
 
 <br>
 
-#### phpstrom laravel插件提示
+### phpstrom laravel插件提示
 
 <img src="../img/image-20200313102117919.png"  >
 
@@ -36,7 +36,7 @@ Barryvdh\LaravelIdeHelper\IdeHelperServiceProvider::class,
 
 ## Blade模板使用
 
-#### 占位符
+### 占位符
 
 语法：
 
@@ -46,7 +46,7 @@ Barryvdh\LaravelIdeHelper\IdeHelperServiceProvider::class,
 
 <br>
 
-#### 填充
+### 填充
 
 语法：
 
@@ -68,7 +68,7 @@ Barryvdh\LaravelIdeHelper\IdeHelperServiceProvider::class,
 
 <br>
 
-#### 继承
+### 继承
 
 语法：
 
@@ -80,7 +80,7 @@ Barryvdh\LaravelIdeHelper\IdeHelperServiceProvider::class,
 
 <br>
 
-#### 组件
+### 组件
 
 
 
@@ -88,9 +88,9 @@ Barryvdh\LaravelIdeHelper\IdeHelperServiceProvider::class,
 
 <br>
 
-#### 流程控制
+### 流程控制
 
-##### for
+#### for
 
 ```
 @for(...)
@@ -100,7 +100,7 @@ Barryvdh\LaravelIdeHelper\IdeHelperServiceProvider::class,
 
 <br>
 
-##### foreach
+#### foreach
 
 ```
 @foreach(...)
@@ -120,7 +120,7 @@ Barryvdh\LaravelIdeHelper\IdeHelperServiceProvider::class,
 
 <br>
 
-##### if
+#### if
 
 ```
 @if()
@@ -132,7 +132,7 @@ Barryvdh\LaravelIdeHelper\IdeHelperServiceProvider::class,
 
 <br>
 
-##### while
+#### while
 
 ```
 @while()
@@ -142,7 +142,7 @@ Barryvdh\LaravelIdeHelper\IdeHelperServiceProvider::class,
 
 <br>
 
-##### php
+#### php
 
 使用原生PHP
 
@@ -164,13 +164,13 @@ laravel的版本要和包的版本匹配
 
 <br>
 
-#### 解决办法
+### 解决办法
 
 下载更低的版本，降低某这个组件的版本
 
 <br>
 
-#### 碰到一个错误
+### 碰到一个错误
 
 laravel6 中有`laravel-modules` 的有些方法没有完全更新
 
@@ -186,7 +186,7 @@ https://github.com/nWidart/laravel-modules/tree/master/src
 
 ## 数据库
 
-#### 数据库字符串长度编辑
+### 数据库字符串长度编辑
 
 ```php
 <?php

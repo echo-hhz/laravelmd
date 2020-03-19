@@ -20,7 +20,7 @@
 
 ## 初始化
 
-#### 设置用户名
+### 设置用户名
 
 ```
 git config --global user.name 'githudName'
@@ -28,7 +28,7 @@ git config --global user.name 'githudName'
 
 <br>
 
-#### 设置邮箱
+### 设置邮箱
 
 ```
 git config --gloabl user.eamil '2223616476@qq.com'
@@ -36,7 +36,7 @@ git config --gloabl user.eamil '2223616476@qq.com'
 
 <br>
 
-#### 查看用户名和邮箱
+### 查看用户名和邮箱
 
 ```
 git config user.name
@@ -45,7 +45,7 @@ git config user.email
 
 <br>
 
-#### 查看其他配置
+### 查看其他配置
 
 ```
 git config --list 
@@ -109,7 +109,7 @@ git config --list
 
 ## 远程仓库
 
-#### 克隆
+### 克隆
 
 先把远程的文件克隆到本地 使用命令
 
@@ -123,7 +123,7 @@ git clone 仓库地址
 
 
 
-#### 提交到远程仓库
+### 提交到远程仓库
 
 `git add .`
 
@@ -145,7 +145,7 @@ git clone 仓库地址
 
 <br>
 
-#### SSH公钥设置
+### SSH公钥设置
 
 需要将本地的git ssh公钥添加到gitee中
 
@@ -213,7 +213,11 @@ git push github master
 git push gitee master
 ```
 
+**注意：**
+
 `git push -u github master`   新建的远程仓库加个u 进行推送
+
+第一次推送到`github`需要`yes`
 
 <br>
 
