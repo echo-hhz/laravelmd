@@ -117,9 +117,9 @@ git config --list
 git clone 仓库地址
 ```
 
-获取仓库地址，可以直接在   点击复制
+获取仓库地址，可以直接在   点击复制ssh
 
-![](B:%5Cmd%5Claravelmd%5Cimg%5Cimage-20200314161819796.png)
+<img src="../img/image-20200314161819796.png"  >	
 
 
 

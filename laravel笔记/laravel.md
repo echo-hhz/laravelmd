@@ -20,9 +20,9 @@ Barryvdh\LaravelIdeHelper\IdeHelperServiceProvider::class,
 
 `settings>Tools>Command Line Tool Support`
 
-<img src="B:\MD\laravelmd\img\image-20200313101619502.png" alt="image-20200313101619502" style="zoom:;" />
+<img src="../img/image-20200313101619502.png"  >
 
-<img src="B:\MD\laravelmd\img\image-20200313101815504.png" alt="image-20200313101815504"  />
+<img src="../img/image-20200313102117919.png"  >
 
 刷新可以查询增加新的命令
 
@@ -30,9 +30,7 @@ Barryvdh\LaravelIdeHelper\IdeHelperServiceProvider::class,
 
 #### phpstrom laravel插件提示
 
-![image-20200313102117919](B:%5Cmd%5Claravelmd%5Cimg%5Cimage-20200313102117919-1584244839952.png)
-
-
+<img src="../img/image-20200313102117919.png"  >
 
 
 

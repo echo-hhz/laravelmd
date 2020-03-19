@@ -18,21 +18,17 @@
 
 #### 在[官网](https://jquery.com/)中下载
 
-![image-20200318103435621](B:%5Cmd%5Claravelmd%5Cimg%5Cimage-20200318103435621.png)
-
-
+<img src="../img/image-20200318103435621.png"  >
 
 在首页点`Download jQuery` 进入下载页面
 
-
-
-![image-20200318103525331](B:%5Cmd%5Claravelmd%5Cimg%5Cimage-20200318103525331.png)
+<img src="../img/image-20200318103525331.png"  >
 
 `Download the compressed`  是生产环境版 后缀`.min.js`
 
 `Download the uncompressed`  是开发版 后缀`.js`
 
-将网页另存为  名字不用更改
+点击后出现源码，在将网页另存为  名字不用更改
 
 
 
